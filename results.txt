@@ -1,0 +1,374 @@
+Loss of 2.0954, 0.9542320682098249
+Layers: 24 and 24
+Loss function: <function mse at 0x000001125017ABF8>
+batch size = 16
+discount = 0.99
+epsilon = 0.1 to 1 decaying 0.01
+lr = 0.0001
+update frequency = 1
+memory size = 1000
+
+
+Loss of 2.4559999999999995, 1.2501455915212436
+Layers: 24 and 24
+Loss function: <function mse at 0x000001125017A9D8>
+batch size = 16
+discount = 0.99
+epsilon = 0.1 to 1 decaying 0.01
+lr = 0.0001
+update frequency = 1
+memory size = 1000
+
+
+Loss of 2.172, 1.0554695637487612
+
+Layers: 24 and 24
+Loss function: mse
+batch size = 16
+discount = 0.99
+epsilon = 0.1 to 1 decaying 0.01
+lr = 0.0001
+update frequency = 1
+memory size = 1000
+
+
+
+Loss of 2.184 with std 0.9622
+
+Layers: 24 and 24
+Loss function: mse
+batch size = 16
+discount = 0.99
+epsilon = 0.1 to 1 decaying 0.01
+lr = 0.0001
+update frequency = 1
+memory size = 1000
+
+
+
+Loss of 2.286 with std 1.208
+
+Layers: 24 and 24
+Loss function: mse
+batch size = 16
+discount = 0.99
+epsilon = 0.1 to 1 decaying 0.01
+lr = 0.0001
+update frequency = 1
+memory size = 1000
+
+
+
+Loss of 2.606 with std 1.2914
+
+Layers: 24 and 24
+Loss function: mse
+batch size = 16
+discount = 0.99
+epsilon = 0.1 to 1 decaying 0.01
+lr = 0.0001
+update frequency = 1
+memory size = 1000
+
+
+
+
+Layers: 24 and 24
+Loss function: mse
+Batch size = 16
+Discount = 0.99
+Epsilon = 0.1 to 1 decaying 0.01
+Learning rate = 0.0001
+Update frequency = 1\Memory size = 1000
+
+
+
+
+Layers: 24 and 24
+Loss function: mse
+Batch size = 16
+Discount = 0.99
+Epsilon: 0.1,1 decay: 0.01
+Learning rate = 0.0001
+Update frequency = 1
+Memory size = 1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update frequency: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update freq: 1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update freq:     1
+Memory size:      1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update freq:     1
+Memory size:    1000
+
+
+
+
+Layers:           24 and 24
+Loss function:    mse
+Batch size:       16
+Discount:         0.99
+Epsilon:          1 to 0.1 decay: 0.01
+Learning rate:    0.0001
+Update freq:     1
+Memory size:    100
+
+
+
+
+Layers:             24 and 24
+Loss function:    mse
+Batch size:        16
+Discount:          0.99
+Epsilon:             1 to 0.1 decay: 0.01
+Learning rate:  0.0001
+Update freq:     1
+Memory size:    100
+
+
+
+
+Layers:             24 and 24
+Loss function:  mse
+Batch size:        16
+Discount:          0.99
+Epsilon:            1 to 0.1 decay: 0.01
+Learning rate:   0.0001
+Update freq:     1
+Memory size:    100
+
+
+
+
+Layers: 24 and 24   Loss function: mse   Batch size: 16   Discount: 0.99   Epsilon: 1 to 0.1 decay: 0.01   Learning rate: 0.0001   Update freq: 1   Memory size: 100
+
+
+Layers: 24 and 24   Loss function: mse   Batch size: 16   Discount: 0.99   Epsilon: 1 to 0.1 decay: 0.01   Learning rate: 0.0001   Update freq: 1   Memory size: 100
+
+
+Layers: 24 and 24      Loss function: mse      Batch size: 16      Discount: 0.99      Epsilon: 1 to 0.1 decay: 0.01      Learning rate: 0.0001      Update freq: 1      Memory size: 100
+
+
+Layers: 24 and 24      Loss function: mse      Batch size: 16      Discount: 0.99      Epsilon: 1 to 0.1 decay: 0.01      Learning rate: 0.0001      Update freq: 1      Memory size: 100
+
+0:
